@@ -11,6 +11,7 @@
 | Branco Neve   | `#F9FAFB`          | Transmite leveza, clareza e acessibilidade |
 | Verde Menta   | `#10B981`          | Sugere crescimento, positividade e tarefas concluídas |
 | Lilás Suave   | `#A78BFA`          | Traz um toque moderno e criativo sem perder a elegância |
+| Branco        | `#FFFFFF`          | Seriedade e simplicidade |
 
 ---
 
@@ -35,5 +36,6 @@
 
 ## 🖋️ Logo do Produto
 
-A logo do produto **Remotely** foi desenvolvida com base nos conceitos de interconexão, leveza e colaboração.  
+A logo do produto **Remotely** foi desenvolvida com base nos conceitos de interconexão, leveza e colaboração;
+O arquivo contém a logo e 2 variantes na cor branca.
 > A logo utiliza a fonte **Poppins** e um ícone representando três pontos conectados — sugerindo trabalho em equipe e agilidade.
